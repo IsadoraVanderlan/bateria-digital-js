@@ -6,7 +6,7 @@ Bateria virtual acionada pelas letras do teclado.
 
 <br/>
 
-![Presentation]()
+![Presentation](https://github.com/IsadoraVanderlan/bateria-digital-js/blob/main/img/apresenta%C3%A7%C3%A3o.png)
 <br/><br/>
 
 # Visualização do Site:
