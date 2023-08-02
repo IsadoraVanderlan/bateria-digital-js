@@ -1,18 +1,18 @@
-# Bem-vindos ao:)
+# Bem-vindos :)
 
-Jogo de Bateria no Teclado com JavaScript. <br/>
 Este é um projeto que foi feito por mim seguindo os passos do video: 
-https://www.youtube.com/watch?v=lsRIbW4YCNE
+https://www.youtube.com/watch?v=lsRIbW4YCNE&t=1421s
+Bateria virtual acionada pelas letras do teclado.
 
 <br/>
 
 ![Presentation]()
 <br/><br/>
 
-# Link Para Visualização do Site:
-
-<a href="">Jogo Bateria
+# Visualização do Site:
+<a href="">Bateria Virtual
 </a>
+
 <br/>
 
 # Técnicos:
@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=lsRIbW4YCNE
 - Javascript
 
 # Cores:
+- background: #eaeaea;
 - Vermelho: #cb2026;
-- Vinho:  #5a0b0d;
-- Cinza: #aaa;
+- Vinho: #5a0b0d;
+- Cinza: #444;
+- Cinza claro: #aaa;
